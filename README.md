@@ -1,4 +1,4 @@
-## SideEffects + Coroutine Demo (Jetpack Compose)
+## Side Effects + Coroutine Demo (Jetpack Compose)
 
 This sample demonstrates two ways to run and cancel coroutines from Compose:
 - LaunchedEffect(key)
@@ -117,4 +117,6 @@ when (val currentState = uiState) {
 - OkHttp + Logging Interceptor
 - WorkManager (KTX)
 - Lifecycle ViewModel + Runtime Compose
+
+### Will add about DisposableEffect SOON.
 
